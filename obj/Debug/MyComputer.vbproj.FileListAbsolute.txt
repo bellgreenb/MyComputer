@@ -1,0 +1,12 @@
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\bin\Debug\MyComputer.exe.config
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\bin\Debug\MyComputer.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\bin\Debug\MyComputer.pdb
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\bin\Debug\MyComputer.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\obj\Debug\MyComputer.vbproj.AssemblyReference.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\obj\Debug\MyComputer.Resources.resources
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\obj\Debug\MyComputer.vbproj.GenerateResource.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\obj\Debug\MyComputer.vbproj.CoreCompileInputs.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\obj\Debug\MyComputer.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\obj\Debug\MyComputer.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\obj\Debug\MyComputer.pdb
+C:\Users\bellg\OneDrive\Desktop\Application Development\MyComputer\obj\Debug\MyComputer.frmComputerInformation.resources
